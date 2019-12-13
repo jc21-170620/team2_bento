@@ -1,5 +1,5 @@
 package team2_bento;
-//testcomment
+//test
 
 import java.io.IOException;
 import javax.servlet.ServletException;
