@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+*{
+	margin:0;
+	pading:0;
+	font-family:"Avenir Next";
+}
+#nav {
+	text-align: left;
+ 
+}
+
+#header {
+	border: 3px solid black;
+	width:200px;
+	height:1080px;
+	background-color:#BAD3FF;
+	position: fixed;
+}
+h3 {
+	text-align: left;
+	margin: 0 10px;
+	padding: 2px 5px;
+	color: #ffffff;
+}
+#nav ul {
+	font-size: small;
+	margin: 10px 20px;
+	padding: 0 10px;
+}
+li {
+	line-height: 1.5em;
+	list-style-type: none;
+}
+#nav a {
+	text-decoration: none;
+	color: #333333;
+}
+#nav a:hover {
+	color: #ff6600;
+}

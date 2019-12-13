@@ -1,0 +1,21 @@
+body{
+	background-color: #F0FFFF;
+}
+
+#bo{
+	position: absolute;
+	margin-left:900px;
+	top:165px;
+}
+h1{
+text-align:center;
+}
+
+p{
+margin-left:320px;
+}
+table{
+	width:550px;
+	font-size: 25px;
+	background-color:white;
+}

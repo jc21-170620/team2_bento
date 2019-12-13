@@ -1,0 +1,14 @@
+@charset "UTF-8";
+input{
+	position:fixed;
+	left: 83%;
+	font-size:40px;
+}
+table{
+	width:80%;
+	
+}
+body{
+	background-color: #F0FFFF;
+	font-size: 25px;
+}
