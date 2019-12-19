@@ -1,0 +1,14 @@
+@charset "UTF-8";
+#hozon{
+	position:fixed;
+	left: 80%;
+	font-size: 100%;
+}
+table{
+	width:80%;
+	
+}
+body{
+	background-color:#F0FFFF;
+	font-size: 25px;
+}
